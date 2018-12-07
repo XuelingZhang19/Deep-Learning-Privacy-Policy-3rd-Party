@@ -8,4 +8,5 @@ The dataset is here: /data/class-1.csv  and /data/class-0.csv
 
 The pre-trained word embedding model is here: /embeddings/final_embeddings/vocab.txt 
 
-The code for cnn is under /script/cnn-topic-classification.ipynb
+The script for data-preprocess is here: /script/data-preprocess.py
+The code for cnn is here: /script/cnn-topic-classification.ipynb
